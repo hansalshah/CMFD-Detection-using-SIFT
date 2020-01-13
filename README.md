@@ -12,3 +12,4 @@ The left image has is the case of an image having SGO and the algorithm correctl
 <img align="right" src="https://github.com/hansalshah/CMFD-Detection-using-SIFT/blob/master/Images/tampered_cup.png"><br>
 
 
+<br/><br/><br/><br/><be/><br/><br/><br/>NOTE: The initial code has been adapted from the implementation of “A sift-based forensic method for copymove attack detection and transformation recovery” by Amerini et al.
